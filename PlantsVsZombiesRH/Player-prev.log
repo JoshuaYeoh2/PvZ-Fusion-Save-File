@@ -1,0 +1,5 @@
+[Physics::Module] Initialized MultithreadedJobDispatcher with 11 workers.
+Loading player data from D:/Games/PvZ Fusion/PvZ Fusion 2.2.1/Game Files/PlantsVsZombiesRH_Data/data.unity3d
+Initialize engine version: 2022.3.20f1c1 (82a5dab7aa2a)
+[Subsystems] Discovering subsystems at path D:/Games/PvZ Fusion/PvZ Fusion 2.2.1/Game Files/PlantsVsZombiesRH_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=0

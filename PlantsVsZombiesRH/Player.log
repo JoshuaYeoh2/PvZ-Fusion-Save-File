@@ -1,7 +1,7 @@
 [Physics::Module] Initialized MultithreadedJobDispatcher with 11 workers.
-Loading player data from D:/Games/PvZ Fusion/PvZ Fusion 2.2.1/Game Files/PlantsVsZombiesRH_Data/data.unity3d
+Loading player data from D:/Games/PvZ Fusion/PvZ Fusion 2.3.1/Game Files/PlantsVsZombiesRH_Data/data.unity3d
 Initialize engine version: 2022.3.20f1c1 (82a5dab7aa2a)
-[Subsystems] Discovering subsystems at path D:/Games/PvZ Fusion/PvZ Fusion 2.2.1/Game Files/PlantsVsZombiesRH_Data/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Games/PvZ Fusion/PvZ Fusion 2.3.1/Game Files/PlantsVsZombiesRH_Data/UnitySubsystems
 GfxDevice: creating device client; threaded=1; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -26,8 +26,8 @@ UnityEngine.Debug:Log(Object)
 
 Direct3D: detected that using refresh rate causes time drift. Will stop trusting refresh rate until the game window is moved.
 Direct3D: detected that vsync is broken (it does not limit frame rate properly). Delta time will now be calculated using cpu-side time stampling until the game window is moved.
-UnloadTime: 1.464100 ms
-当前时间戳：1741078486
+UnloadTime: 1.218200 ms
+当前时间戳：1741608177
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 GameAPP:Awake()
@@ -47,38 +47,24 @@ UnityEngine.Debug:Log(Object)
 Player data saved.
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
+AchievementManager:UnlockAchievement(Achievement)
 
 Player data saved.
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
+PrizeMgr:Click()
+PrizeMgr:Update()
 
 Player data saved.
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
+PrizeMgr:GoBack()
 
 Player data saved.
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
-
-Player data saved.
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-
-Player data saved.
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-
-Player data saved.
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-
-Player data saved.
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-
-Player data saved.
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
+PrizeMgr:Click()
+PrizeMgr:Update()
 
 Player data saved.
 UnityEngine.Logger:Log(LogType, Object)
@@ -95,18 +81,128 @@ Player data saved.
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 AchievementManager:UnlockAchievement(Achievement)
-FumeShroom:AttackZombie()
-GarlicFume:AnimShoot()
+
+Player data saved.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PrizeMgr:Click()
+PrizeMgr:Update()
+
+Player data saved.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PrizeMgr:Click()
+PrizeMgr:Update()
+
+Player data saved.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PrizeMgr:GoBack()
+
+Player data saved.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PrizeMgr:Click()
+PrizeMgr:Update()
+
+Player data saved.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PrizeMgr:GoBack()
+
+Player data saved.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PrizeMgr:Click()
+PrizeMgr:Update()
+
+Player data saved.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PrizeMgr:GoBack()
+
+Player data saved.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PrizeMgr:Click()
+PrizeMgr:Update()
+
+Player data saved.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PrizeMgr:Click()
+PrizeMgr:Update()
+
+Player data saved.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PrizeMgr:Click()
+PrizeMgr:Update()
+
+Player data saved.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PrizeMgr:GoBack()
 
 Player data saved.
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 AchievementManager:UnlockAchievement(Achievement)
-CreatePlant:PuffToFume(Int32, Int32, Int32)
-CreatePlant:SpreadPuff(Int32, Int32, PlantType)
-CreatePlant:CheckMix(Int32, Int32, PlantType)
-CreatePlant:SetPlant(Int32, Int32, PlantType, Plant, Vector2, Boolean, Boolean)
-Present:RandomPlant()
+
+Player data saved.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AchievementManager:UnlockAchievement(Achievement)
+
+Player data saved.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PrizeMgr:Click()
+PrizeMgr:Update()
+
+Player data saved.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PrizeMgr:GoBack()
+
+Player data saved.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PrizeMgr:Click()
+PrizeMgr:Update()
+
+Player data saved.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PrizeMgr:GoBack()
+
+Player data saved.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PrizeMgr:Click()
+PrizeMgr:Update()
+
+Player data saved.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PrizeMgr:Click()
+PrizeMgr:Update()
+
+Player data saved.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PrizeMgr:GoBack()
+
+Player data saved.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PrizeMgr:Click()
+PrizeMgr:Update()
+
+Player data saved.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PrizeMgr:GoBack()
 
 Player data saved.
 UnityEngine.Logger:Log(LogType, Object)
@@ -117,11 +213,11 @@ Memory Statistics:
 [ALLOC_TEMP_TLS] TLS Allocator
   StackAllocators : 
     [ALLOC_TEMP_MAIN]
-      Peak usage frame count: [2.0 KB-4.0 KB]: 2222344 frames, [4.0 KB-8.0 KB]: 602403 frames, [8.0 KB-16.0 KB]: 586822 frames, [16.0 KB-32.0 KB]: 669561 frames, [32.0 KB-64.0 KB]: 33243 frames, [64.0 KB-128.0 KB]: 57437 frames, [128.0 KB-256.0 KB]: 59778 frames, [256.0 KB-0.5 MB]: 17 frames, [0.5 MB-1.0 MB]: 7 frames, [1.0 MB-2.0 MB]: 7 frames, [2.0 MB-4.0 MB]: 17 frames, [4.0 MB-8.0 MB]: 2 frames
+      Peak usage frame count: [2.0 KB-4.0 KB]: 536125 frames, [4.0 KB-8.0 KB]: 1017343 frames, [8.0 KB-16.0 KB]: 4252916 frames, [16.0 KB-32.0 KB]: 3538105 frames, [32.0 KB-64.0 KB]: 387427 frames, [64.0 KB-128.0 KB]: 236661 frames, [128.0 KB-256.0 KB]: 14115 frames, [256.0 KB-0.5 MB]: 17 frames, [0.5 MB-1.0 MB]: 1 frames, [1.0 MB-2.0 MB]: 89 frames, [2.0 MB-4.0 MB]: 32 frames, [4.0 MB-8.0 MB]: 4 frames
       Initial Block Size 4.0 MB
       Current Block Size 7.9 MB
       Peak Allocated Bytes 7.9 MB
-      Overflow Count 1
+      Overflow Count 4
     [ALLOC_TEMP_Background Job.worker 4]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
@@ -135,7 +231,7 @@ Memory Statistics:
     [ALLOC_TEMP_Background Job.worker 3]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 67 B
+      Peak Allocated Bytes 1.6 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.worker 11]
       Initial Block Size 32.0 KB
@@ -155,14 +251,9 @@ Memory Statistics:
     [ALLOC_TEMP_CloudJob.worker 0] x 2
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 9.1 KB
+      Peak Allocated Bytes 2.2 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.worker 12]
-      Initial Block Size 32.0 KB
-      Current Block Size 32.0 KB
-      Peak Allocated Bytes 54 B
-      Overflow Count 0
-    [ALLOC_TEMP_Background Job.worker 10]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
       Peak Allocated Bytes 54 B
@@ -172,15 +263,15 @@ Memory Statistics:
       Current Block Size 32.0 KB
       Peak Allocated Bytes 1.6 KB
       Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 10]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
     [ALLOC_TEMP_Job.worker 0]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
       Peak Allocated Bytes 41.5 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Job.worker 4]
-      Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 44.4 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.worker 15]
       Initial Block Size 32.0 KB
@@ -190,9 +281,14 @@ Memory Statistics:
     [ALLOC_TEMP_Job.worker 5]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 59.0 KB
+      Peak Allocated Bytes 42.9 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.worker 8]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 9]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
       Peak Allocated Bytes 54 B
@@ -210,17 +306,12 @@ Memory Statistics:
     [ALLOC_TEMP_Job.worker 1]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 100.2 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Background Job.worker 9]
-      Initial Block Size 32.0 KB
-      Current Block Size 32.0 KB
-      Peak Allocated Bytes 54 B
+      Peak Allocated Bytes 83.2 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 3]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 44.4 KB
+      Peak Allocated Bytes 44.5 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.worker 5]
       Initial Block Size 32.0 KB
@@ -235,7 +326,12 @@ Memory Statistics:
     [ALLOC_TEMP_UnityGfxDeviceWorker]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 12.0 KB
+      Peak Allocated Bytes 10.4 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 4]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 44.5 KB
       Overflow Count 0
     [ALLOC_TEMP_AssetGarbageCollectorHelper] x 11
       Initial Block Size 64.0 KB
@@ -245,17 +341,17 @@ Memory Statistics:
     [ALLOC_TEMP_Job.worker 2]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 59.0 KB
+      Peak Allocated Bytes 47.9 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 10]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 59.0 KB
+      Peak Allocated Bytes 41.5 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 7]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 41.3 KB
+      Peak Allocated Bytes 47.9 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 9]
       Initial Block Size 256.0 KB
@@ -270,12 +366,12 @@ Memory Statistics:
     [ALLOC_TEMP_Job.worker 6]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 41.5 KB
+      Peak Allocated Bytes 42.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 8]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 41.5 KB
+      Peak Allocated Bytes 42.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.worker 14]
       Initial Block Size 32.0 KB
@@ -285,7 +381,7 @@ Memory Statistics:
     [ALLOC_TEMP_Loading.AsyncRead]
       Initial Block Size 64.0 KB
       Current Block Size 124.0 KB
-      Peak Allocated Bytes 123.4 KB
+      Peak Allocated Bytes 121.3 KB
       Overflow Count 0
     [ALLOC_TEMP_BatchDeleteObjects]
       Initial Block Size 64.0 KB
@@ -293,31 +389,31 @@ Memory Statistics:
       Peak Allocated Bytes 54 B
       Overflow Count 0
 [ALLOC_DEFAULT] Dual Thread Allocator
-  Peak main deferred allocation count 8866
+  Peak main deferred allocation count 22624
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 93 Subsections = 95232 buckets. Failed count: 73784714
-        32B: 13 Subsections = 6656 buckets. Failed count: 47297829
-        48B: 33 Subsections = 11264 buckets. Failed count: 307102278
-        64B: 31 Subsections = 7936 buckets. Failed count: 1368268
-        80B: 78 Subsections = 15974 buckets. Failed count: 4588641
-        96B: 4 Subsections = 682 buckets. Failed count: 4350449
-        112B: 2 Subsections = 292 buckets. Failed count: 49100
-        128B: 2 Subsections = 256 buckets. Failed count: 1630523
+        16B: 87 Subsections = 89088 buckets. Failed count: 174600097
+        32B: 13 Subsections = 6656 buckets. Failed count: 111516972
+        48B: 34 Subsections = 11605 buckets. Failed count: 616287897
+        64B: 32 Subsections = 8192 buckets. Failed count: 4342241
+        80B: 82 Subsections = 16793 buckets. Failed count: 10826348
+        96B: 4 Subsections = 682 buckets. Failed count: 10256060
+        112B: 2 Subsections = 292 buckets. Failed count: 66514
+        128B: 2 Subsections = 256 buckets. Failed count: 5251976
     [ALLOC_DEFAULT_MAIN]
-      Peak usage frame count: [128.0 MB-256.0 MB]: 1410981 frames, [256.0 MB-0.50 GB]: 2820657 frames
+      Peak usage frame count: [128.0 MB-256.0 MB]: 736134 frames, [256.0 MB-0.50 GB]: 9246701 frames
       Requested Block Size 16.0 MB
-      Peak Block count 13
-      Peak Allocated memory 279.0 MB
-      Peak Large allocation bytes 122.5 MB
+      Peak Block count 16
+      Peak Allocated memory 402.2 MB
+      Peak Large allocation bytes 175.9 MB
     [ALLOC_DEFAULT_THREAD]
-      Peak usage frame count: [16.0 MB-32.0 MB]: 4231638 frames
+      Peak usage frame count: [16.0 MB-32.0 MB]: 9982835 frames
       Requested Block Size 16.0 MB
       Peak Block count 1
-      Peak Allocated memory 22.5 MB
+      Peak Allocated memory 26.1 MB
       Peak Large allocation bytes 16.0 MB
 [ALLOC_TEMP_JOB_1_FRAME]
   Initial Block Size 2.0 MB
@@ -332,7 +428,7 @@ Memory Statistics:
 [ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
   Initial Block Size 2.0 MB
   Used Block Count 1
-  Overflow Count (too large) 1
+  Overflow Count (too large) 3
   Overflow Count (full) 0
 [ALLOC_TEMP_JOB_ASYNC (Background)]
   Initial Block Size 1.0 MB
@@ -346,25 +442,25 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 93 Subsections = 95232 buckets. Failed count: 73784714
-        32B: 13 Subsections = 6656 buckets. Failed count: 47297829
-        48B: 33 Subsections = 11264 buckets. Failed count: 307102278
-        64B: 31 Subsections = 7936 buckets. Failed count: 1368268
-        80B: 78 Subsections = 15974 buckets. Failed count: 4588641
-        96B: 4 Subsections = 682 buckets. Failed count: 4350449
-        112B: 2 Subsections = 292 buckets. Failed count: 49100
-        128B: 2 Subsections = 256 buckets. Failed count: 1630523
+        16B: 87 Subsections = 89088 buckets. Failed count: 174600097
+        32B: 13 Subsections = 6656 buckets. Failed count: 111516972
+        48B: 34 Subsections = 11605 buckets. Failed count: 616287897
+        64B: 32 Subsections = 8192 buckets. Failed count: 4342241
+        80B: 82 Subsections = 16793 buckets. Failed count: 10826348
+        96B: 4 Subsections = 682 buckets. Failed count: 10256060
+        112B: 2 Subsections = 292 buckets. Failed count: 66514
+        128B: 2 Subsections = 256 buckets. Failed count: 5251976
     [ALLOC_GFX_MAIN]
-      Peak usage frame count: [64.0 MB-128.0 MB]: 201469 frames, [128.0 MB-256.0 MB]: 4030169 frames
+      Peak usage frame count: [128.0 MB-256.0 MB]: 9982835 frames
       Requested Block Size 16.0 MB
-      Peak Block count 3
-      Peak Allocated memory 152.4 MB
-      Peak Large allocation bytes 112.0 MB
+      Peak Block count 4
+      Peak Allocated memory 185.4 MB
+      Peak Large allocation bytes 136.0 MB
     [ALLOC_GFX_THREAD]
-      Peak usage frame count: [2.0 KB-4.0 KB]: 161560 frames, [16.0 KB-32.0 KB]: 1115 frames, [32.0 KB-64.0 KB]: 232422 frames, [64.0 KB-128.0 KB]: 1291271 frames, [128.0 KB-256.0 KB]: 2545270 frames
+      Peak usage frame count: [2.0 KB-4.0 KB]: 8962 frames, [16.0 KB-32.0 KB]: 702 frames, [32.0 KB-64.0 KB]: 137995 frames, [64.0 KB-128.0 KB]: 416278 frames, [128.0 KB-256.0 KB]: 7018537 frames, [256.0 KB-0.5 MB]: 2400361 frames
       Requested Block Size 16.0 MB
       Peak Block count 1
-      Peak Allocated memory 155.6 KB
+      Peak Allocated memory 283.5 KB
       Peak Large allocation bytes 0 B
 [ALLOC_CACHEOBJECTS] Dual Thread Allocator
   Peak main deferred allocation count 8
@@ -373,22 +469,22 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 93 Subsections = 95232 buckets. Failed count: 73784714
-        32B: 13 Subsections = 6656 buckets. Failed count: 47297829
-        48B: 33 Subsections = 11264 buckets. Failed count: 307102278
-        64B: 31 Subsections = 7936 buckets. Failed count: 1368268
-        80B: 78 Subsections = 15974 buckets. Failed count: 4588641
-        96B: 4 Subsections = 682 buckets. Failed count: 4350449
-        112B: 2 Subsections = 292 buckets. Failed count: 49100
-        128B: 2 Subsections = 256 buckets. Failed count: 1630523
+        16B: 87 Subsections = 89088 buckets. Failed count: 174600097
+        32B: 13 Subsections = 6656 buckets. Failed count: 111516972
+        48B: 34 Subsections = 11605 buckets. Failed count: 616287897
+        64B: 32 Subsections = 8192 buckets. Failed count: 4342241
+        80B: 82 Subsections = 16793 buckets. Failed count: 10826348
+        96B: 4 Subsections = 682 buckets. Failed count: 10256060
+        112B: 2 Subsections = 292 buckets. Failed count: 66514
+        128B: 2 Subsections = 256 buckets. Failed count: 5251976
     [ALLOC_CACHEOBJECTS_MAIN]
-      Peak usage frame count: [64.0 MB-128.0 MB]: 4231638 frames
+      Peak usage frame count: [64.0 MB-128.0 MB]: 9982835 frames
       Requested Block Size 4.0 MB
-      Peak Block count 16
-      Peak Allocated memory 87.2 MB
-      Peak Large allocation bytes 31.3 MB
+      Peak Block count 18
+      Peak Allocated memory 93.0 MB
+      Peak Large allocation bytes 28.8 MB
     [ALLOC_CACHEOBJECTS_THREAD]
-      Peak usage frame count: [0.5 MB-1.0 MB]: 4231638 frames
+      Peak usage frame count: [0.5 MB-1.0 MB]: 9982835 frames
       Requested Block Size 4.0 MB
       Peak Block count 1
       Peak Allocated memory 0.9 MB
@@ -400,22 +496,22 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 93 Subsections = 95232 buckets. Failed count: 73784714
-        32B: 13 Subsections = 6656 buckets. Failed count: 47297829
-        48B: 33 Subsections = 11264 buckets. Failed count: 307102278
-        64B: 31 Subsections = 7936 buckets. Failed count: 1368268
-        80B: 78 Subsections = 15974 buckets. Failed count: 4588641
-        96B: 4 Subsections = 682 buckets. Failed count: 4350449
-        112B: 2 Subsections = 292 buckets. Failed count: 49100
-        128B: 2 Subsections = 256 buckets. Failed count: 1630523
+        16B: 87 Subsections = 89088 buckets. Failed count: 174600097
+        32B: 13 Subsections = 6656 buckets. Failed count: 111516972
+        48B: 34 Subsections = 11605 buckets. Failed count: 616287897
+        64B: 32 Subsections = 8192 buckets. Failed count: 4342241
+        80B: 82 Subsections = 16793 buckets. Failed count: 10826348
+        96B: 4 Subsections = 682 buckets. Failed count: 10256060
+        112B: 2 Subsections = 292 buckets. Failed count: 66514
+        128B: 2 Subsections = 256 buckets. Failed count: 5251976
     [ALLOC_TYPETREE_MAIN]
-      Peak usage frame count: [16.0 KB-32.0 KB]: 4231638 frames
+      Peak usage frame count: [16.0 KB-32.0 KB]: 9982835 frames
       Requested Block Size 2.0 MB
       Peak Block count 1
-      Peak Allocated memory 27.2 KB
+      Peak Allocated memory 27.4 KB
       Peak Large allocation bytes 0 B
     [ALLOC_TYPETREE_THREAD]
-      Peak usage frame count: [0-1.0 KB]: 4231638 frames
+      Peak usage frame count: [0-1.0 KB]: 9982835 frames
       Requested Block Size 2.0 MB
       Peak Block count 0
       Peak Allocated memory 0 B
